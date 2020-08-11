@@ -1,0 +1,35 @@
+{
+  "name": "21bitcoin",
+  "private": true,
+  "description": "",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": "dolu",
+  "scripts": {
+    "dev": "next",
+    "develop": "yarn dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "dayjs": "^1.8.33",
+    "gray-matter": "^4.0.2",
+    "next": "^9.5.2",
+    "node-glob": "^1.2.0",
+    "puppeteer": "^5.2.1",
+    "raw-loader": "^4.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-markdown": "^4.3.1",
+    "reveal.js": "^4.0.2",
+    "webpack": "^4.42.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dolu89/21bitcoin"
+  }
+}
