@@ -7,7 +7,7 @@ export default function Meta(props) {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta charSet="utf-8" />
                 <title>{props.siteTitle}</title>
-                <meta name="Description" content={props.description}></meta>
+                <meta name="Description" content={props.siteDescription}></meta>
                 <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
             <style jsx global>
