@@ -59,7 +59,6 @@ export default function BlogTemplate({ frontmatter, markdownBody, siteTitle, nex
           }
           .blog__hero .slide__viewer {
             margin-bottom: 0;
-            object-fit: cover;
             min-height: 100%;
             min-width: 100%;
             object-position: center;
