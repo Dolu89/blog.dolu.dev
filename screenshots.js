@@ -29,7 +29,10 @@ async function run() {
         await browser.close()
     }
 
+    return 'End'
 
 }
 
 run()
+.then(e => console.log(e))
+.catch(console.error(e => console.error(e)))
