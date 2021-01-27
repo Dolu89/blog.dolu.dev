@@ -1,8 +1,8 @@
 ---
-title: 'Bips.xyz : Un mirroir des BIPs'
+title: 'Bips.xyz : Un miroir des BIPs'
 description : Bips.xyz permet de facilement partager les BIPs.
 date: 2021-01-02T16:46:35.449Z
-slug: bips-xyz-mirroir-des-bips
+slug: bips-xyz-miroir-des-bips
 tags:
     - bip
     - projet
