@@ -42,6 +42,9 @@ Ce site propose une interface minimaliste qui expose en temps réel les frais à
 
 **Ce projet en est encore à l'état de POC. Il y a encore beaucoup d'optimisations à faire**
 
+Voici une piste d'amélioration
+- Prendre en compte la nombre total de transactions (et leurs tailles) dans le mempool. Inutile de calculer quoi que ce soit si les transactions du mempool ne remplissent même pas 1 bloc
+
 ---
 
 Le code source du projet est disponible sur Github : 
