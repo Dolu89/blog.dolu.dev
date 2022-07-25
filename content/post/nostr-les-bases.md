@@ -1,6 +1,6 @@
 ---
 author: Dolu
-date: '2022-07-25T14:00:50.699Z'
+date: '2022-07-25T10:00:50.699Z'
 title: Nostr - Les bases
 description: Un protocole de communication pour contrer la censure
 tags:
