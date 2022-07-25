@@ -8,4 +8,4 @@ type: page
 Je suis [Dolu](https://twitter.com/Dolu_Web), développeur web (Node.js et .Net) freelance.
 
 ## Donation
-[Merci ❤️](https://btcpay.lightningstream.io/apps/qUPTghdyTEqM5xUX9nHFkGWJpS2/pos)
+[Merci ❤️](https://tippin.me/@Dolu_Web)
